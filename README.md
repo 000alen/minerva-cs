@@ -1,1 +1,1 @@
-# minerva-cs
+# CS @ Minerva
